@@ -19,10 +19,13 @@
 ## 🚀 Installation
 
 ```
-$ git clone https://github.com/viniciuspasquantonio/pokedex-reac.git
+$ git clone https://github.com/JoaoLucas8760/pokedex_React
 $ cd react-todolist
 $ npm install
 $ npm start
 ```
 
 The application will open in the browser on http://localhost:3000
+
+
+
